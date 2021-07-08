@@ -1,0 +1,3 @@
+﻿  gameCntroller.cpp
+C:\Users\颜君的电脑\Desktop\AnimalChess0704mengkun\AnimalChess\gameController\gameCntroller.cpp(360): warning C4715: “Move”: 不是所有的控件路径都返回值
+  AnimalChess.vcxproj -> C:\Users\颜君的电脑\Desktop\AnimalChess0704mengkun\AnimalChess\Debug\AnimalChess.exe
