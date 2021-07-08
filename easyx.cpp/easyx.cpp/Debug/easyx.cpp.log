@@ -1,0 +1,6 @@
+﻿  源.cpp
+d:\cpp\easyx.cpp\easyx.cpp\head.h(90): warning C4101: “temp”: 未引用的局部变量
+d:\cpp\easyx.cpp\easyx.cpp\源.cpp(48): warning C4474: sprintf_s: 格式字符串中传递的参数太多
+  d:\cpp\easyx.cpp\easyx.cpp\源.cpp(48): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+d:\cpp\easyx.cpp\easyx.cpp\源.cpp(274): warning C4101: “i”: 未引用的局部变量
+  easyx.cpp.vcxproj -> D:\CPP\easyx.cpp\Debug\easyx.cpp.exe
